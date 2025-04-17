@@ -27,6 +27,6 @@ class MyMysql:
 
 其中，数据库ua_pool为用于生成随机请求头user_agent的库，需要在建立完成数据库后导入位于文件根目录下的```ua_pool.sql```文件数据。
 
-
-
+代码所需数据存放在网盘中，链接为https://pan.baidu.com/s/1PRUdM8xaUb0Jb4TsfLZkXg 提取码为f589
+下载后放在项目根目录即可
 在完成上述配置后，运行```main.py```即可自动开始爬取分析，并生成情感得分。
